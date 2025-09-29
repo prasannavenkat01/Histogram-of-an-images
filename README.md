@@ -28,7 +28,7 @@ The Histogram of gray scale image and color image is shown.
 ```python
 
 # Developed By: PRASANNA V
-# Register Number: 212223240123
+# Register Number:212223240123
 
 
 import cv2
